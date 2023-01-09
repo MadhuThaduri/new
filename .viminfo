@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1673258803,,"wq"
 :q!
 |2,0,1673008800,,"q!"
-:wq
-|2,0,1673008748,,"wq"
 :q
 |2,0,1673008640,,"q"
 :wq!
@@ -34,22 +34,120 @@
 |3,1,0,0,1,0,1673008756,"t"
 
 # File marks:
-'0  3  24  ~/docker/dockerfile
-|4,48,3,24,1673008800,"~/docker/dockerfile"
-'1  6  25  ~/docker/git.yml
-|4,49,6,25,1673008675,"~/docker/git.yml"
-'2  27  18  ~/docker/example-voting-app/voting.yml
-|4,50,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+'0  1  9  ~/file1
+|4,48,1,9,1673258803,"~/file1"
+'1  1  9  ~/file1
+|4,49,1,9,1673258404,"~/file1"
+'2  1  9  ~/file1
+|4,50,1,9,1673258314,"~/file1"
+'3  1  9  ~/file1
+|4,51,1,9,1673258314,"~/file1"
+'4  3  24  ~/docker/dockerfile
+|4,52,3,24,1673008800,"~/docker/dockerfile"
+'5  6  25  ~/docker/git.yml
+|4,53,6,25,1673008675,"~/docker/git.yml"
+'6  27  18  ~/docker/example-voting-app/voting.yml
+|4,54,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
 
 # Jumplist (newest first):
+-'  1  9  ~/file1
+|4,39,1,9,1673258803,"~/file1"
+-'  1  9  ~/file1
+|4,39,1,9,1673258404,"~/file1"
+-'  1  9  ~/file1
+|4,39,1,9,1673258314,"~/file1"
 -'  3  24  ~/docker/dockerfile
 |4,39,3,24,1673008800,"~/docker/dockerfile"
+-'  3  24  ~/docker/dockerfile
+|4,39,3,24,1673008800,"~/docker/dockerfile"
+-'  3  24  ~/docker/dockerfile
+|4,39,3,24,1673008800,"~/docker/dockerfile"
+-'  3  24  ~/docker/dockerfile
+|4,39,3,24,1673008800,"~/docker/dockerfile"
+-'  3  24  ~/docker/dockerfile
+|4,39,3,24,1673008800,"~/docker/dockerfile"
+-'  3  24  ~/docker/dockerfile
+|4,39,3,24,1673008800,"~/docker/dockerfile"
+-'  3  24  ~/docker/dockerfile
+|4,39,3,24,1673008800,"~/docker/dockerfile"
+-'  3  24  ~/docker/dockerfile
+|4,39,3,24,1673008800,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1673008688,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1673008688,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1673008688,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1673008688,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1673008688,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1673008688,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1673008688,"~/docker/dockerfile"
 -'  1  0  ~/docker/dockerfile
 |4,39,1,0,1673008688,"~/docker/dockerfile"
 -'  6  25  ~/docker/git.yml
 |4,39,6,25,1673008675,"~/docker/git.yml"
 -'  6  25  ~/docker/git.yml
 |4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  6  25  ~/docker/git.yml
+|4,39,6,25,1673008675,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
+-'  1  0  ~/docker/git.yml
+|4,39,1,0,1673008180,"~/docker/git.yml"
 -'  1  0  ~/docker/git.yml
 |4,39,1,0,1673008180,"~/docker/git.yml"
 -'  1  0  ~/docker/git.yml
@@ -62,6 +160,88 @@
 |4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
 -'  27  18  ~/docker/example-voting-app/voting.yml
 |4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  27  18  ~/docker/example-voting-app/voting.yml
+|4,39,27,18,1673008075,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
+-'  1  0  ~/docker/example-voting-app/voting.yml
+|4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
 -'  1  0  ~/docker/example-voting-app/voting.yml
 |4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
 -'  1  0  ~/docker/example-voting-app/voting.yml
@@ -72,6 +252,14 @@
 |4,39,1,0,1673007819,"~/docker/example-voting-app/voting.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/file1
+	*	1673258799	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	2	0
+	+	1	9
 
 > ~/docker/dockerfile
 	*	1673008783	0
